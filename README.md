@@ -12,7 +12,6 @@ The project shows a simple integration with external API (https://swapi.dev/)
 - Postgres SQL
 - Lombok
 - JUnit 5
-- Mockito
 - AssertJ
 - Docker
 
